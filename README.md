@@ -1,3 +1,3 @@
 # Taboo-Game
-C# ile Tabu Oyunu 
-tabu2.exe dosyasını indirerek direk oynayabilirsiniz
+C# Based Taboo Game Free Software Made By New Node Software 2021# Taboo Game
+You can play Taboo 2 by downloading the .exe file
