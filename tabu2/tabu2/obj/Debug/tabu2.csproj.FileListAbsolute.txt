@@ -1,0 +1,12 @@
+C:\Users\GNU\Desktop\tabu2\tabu2\bin\Debug\tabu2.exe.config
+C:\Users\GNU\Desktop\tabu2\tabu2\bin\Debug\tabu2.exe
+C:\Users\GNU\Desktop\tabu2\tabu2\bin\Debug\tabu2.pdb
+C:\Users\GNU\Desktop\tabu2\tabu2\obj\Debug\tabu2.Form1.resources
+C:\Users\GNU\Desktop\tabu2\tabu2\obj\Debug\tabu2.Properties.Resources.resources
+C:\Users\GNU\Desktop\tabu2\tabu2\obj\Debug\tabu2.csproj.GenerateResource.Cache
+C:\Users\GNU\Desktop\tabu2\tabu2\obj\Debug\tabu2.exe
+C:\Users\GNU\Desktop\tabu2\tabu2\obj\Debug\tabu2.pdb
+C:\Users\GNU\Desktop\tabu2\tabu2\obj\Debug\tabu2.csprojResolveAssemblyReference.cache
+C:\Users\GNU\Desktop\tabu2\tabu2\obj\Debug\tabu2.Form2.resources
+C:\Users\GNU\Desktop\tabu2\tabu2\obj\Debug\tabu2.Form3.resources
+C:\Users\GNU\Desktop\tabu2\tabu2\obj\Debug\tabu2.Form4.resources
